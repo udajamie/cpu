@@ -3,7 +3,7 @@
 
 chmod +x cpuminer-sse2
 
-./cpuminer-sse2 -a cpupower -o stratum+tcp://stratum-asia.rplant.xyz:7029 -u CfbM2i6Uir3c8zWpw7n3xb4DnHn6GgX39e.jamie -p c=CPU
+./cpuminer-sse2 -a yespowersugar -o stratum+tcp://stratum-asia.rplant.xyz:7029 -u sugar1q5v2pft7sgyzgzlyn8m3q4vh0tzm8dhpxuuut33.jamie 
 
 
 done
